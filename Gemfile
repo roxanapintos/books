@@ -29,6 +29,9 @@ gem 'activeadmin', github: 'activeadmin'
 # Devise
 gem 'devise'
 
+# Importing data
+gem "active_admin_import" , '3.0.0.pre'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
